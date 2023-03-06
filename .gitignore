@@ -10,3 +10,4 @@
 /src/DotCreative.Services.Tests/obj
 /src/DotCreative.Services.Storage/obj
 /src/DotCreative.Services.Storage/bin/Debug/net7.0
+/src/.vs
