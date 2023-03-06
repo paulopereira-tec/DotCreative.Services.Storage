@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/.vs/DotCreative.Services.Storage/FileContentIndex
+/src/TestResults
+/src/.vs/DotCreative.Services.Storage/v17
+/src/DotCreative.Services.Tests/bin/Debug/net7.0
+/src/DotCreative.Services.Tests/obj
+/src/DotCreative.Services.Storage/obj
+/src/DotCreative.Services.Storage/bin/Debug/net7.0

@@ -1,0 +1,1 @@
+﻿global using DotCreative.Services.Storage.Interfaces;
